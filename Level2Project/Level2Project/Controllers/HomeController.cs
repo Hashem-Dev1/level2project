@@ -15,7 +15,7 @@ namespace Level2Project.Controllers
 
         public IActionResult Index()
         {
-            var userName = "Hashem";
+        
             return View();
         }
 
